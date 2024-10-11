@@ -1,11 +1,11 @@
 @font-face {
   font-family: "YesevaOne-Regular";
-  src: url("/fonts/YesevaOne-Regular.ttf") format("truetype");
+  src: url("../fonts/YesevaOne-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Nunito-Light";
-  src: url("/fonts/Nunito-Light.ttf") format("truetype");
+  src: url("../fonts/Nunito-Light.ttf") format("truetype");
 }
 
 :root {
